@@ -13,7 +13,7 @@
 <p>Automatically plays and repeats the specified music.</p>
 
 <h1>License:</h1>
-<p>All can be used freely, but mention  the GitHub my profile link in the HTML code.</p>
+<p>Everything is free to use, but mention me in your HTML code.</p>
 
 <h1>Author:</h1>
 <p>✶ devlimee (www.github.com/devlimee) ✶</p>
